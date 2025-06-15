@@ -1,6 +1,6 @@
 # Task8_Sales_Dashboard
 Interactive dashboard showcasing Superstore sales performance by region, category, and time using Power BI. Includes insights, visualizations, and slicer filters.
-# 📊 Superstore Sales Performance Dashboard
+#  Superstore Sales Performance Dashboard
 
 This project presents an interactive sales performance dashboard created using **Power BI**, based on a retail dataset (Superstore_Sales.csv). The dashboard provides insights into sales trends across **regions, product categories, and time (monthly)** to help stakeholders make informed decisions.
 
@@ -51,7 +51,7 @@ Top Product:
 
 ---
 
-## 📁 Deliverables
+## Deliverables
 
 -  Power BI dashboard (.pbix file)
 - Screenshot of the dashboard
